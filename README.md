@@ -1,4 +1,3 @@
-````markdown
 # Shift Register Simulator 🤹
 
 Welcome to the Shift Register Simulator! This Streamlit application allows you to visualize and simulate various types of shift operations on binary registers. Whether you're a student studying computer architecture or an enthusiast exploring digital systems, this tool will help you understand shift registers in a fun and interactive way.
@@ -39,10 +38,10 @@ Welcome to the Shift Register Simulator! This Streamlit application allows you t
 ## Installation 🛠️
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/NoorBnHossam/shift-register-simulator.git
    ```
-````
 
 2. Navigate to the project directory:
    ```sh
@@ -59,22 +58,9 @@ Welcome to the Shift Register Simulator! This Streamlit application allows you t
 
 ## Screenshot 📸
 
-![Shift Register Simulator](screenshot.png)
-
-## Contributing 🤝
-
-We welcome contributions to enhance the functionality and user experience of this application. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Right Shift Register](SH_R.png)
+![Left Shift Register](SH_L.png)
+![Circular Shift Register](SH_Circulate.png)
 
 ## Contact 📧
 

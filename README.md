@@ -56,22 +56,18 @@ Welcome to the Shift Register Simulator! This Streamlit application allows you t
    streamlit run app.py
    ```
 
-## Screenshot 📸
+## Screenshots 📸
 
-![Right Shift Register](SH_R.png)
-![Left Shift Register](SH_L.png)
-![Circular Shift Register](SH_Circulate.png)
+![Right Shift Register](./screenshots/SH_R.png)
+![Left Shift Register](./screenshots/SH_L.png)
+![Circular Shift Register](./screenshots/SH_Circulate.png)
 
 ## Contact 📧
 
 For any questions or suggestions, please feel free to reach out.
 
-- **Noor Bn Hossam**: [noorbnhossam@gmail.com](mailto:noorbnhossam@gmail.com)
+- **NoorBnHossam 👨‍💻❤️**: [noorbnhossam@gmail.com](mailto:noorbnhossam@gmail.com)
 
 ---
 
 Thank you for using the Shift Register Simulator! I hope it helps you in your studies and projects. Happy shifting! 🥳
-
-```
-
-```

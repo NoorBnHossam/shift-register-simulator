@@ -56,10 +56,6 @@ Welcome to the Shift Register Simulator! This Streamlit application allows you t
    streamlit run app.py
    ```
 
-## Try it Online 🌐
-
-You can try it online [here](https://shift-register-simulator.streamlit.app/)
-
 ## Screenshots 📸
 
 ### Right Shift Register ➡️
